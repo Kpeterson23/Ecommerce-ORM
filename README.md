@@ -2,7 +2,7 @@
 
 # Description
 
-Front end of the E-commerce platform is created so you'll create the backend. Using express.js and have it us sequelize to use with a MySQL database.
+Front end of the E-commerce platform is created so you'll create the backend portion. Using express.js and have it us sequelize to use with a MySQL database.
 
 # Table of Contents
 
